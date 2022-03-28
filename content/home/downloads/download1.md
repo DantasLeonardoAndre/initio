@@ -1,6 +1,7 @@
 +++
 title = "Download original template"
 file = "http://www.gettemplate.com/downloads/initio.zip"
+image = "images/s1.jpg"
 weight = 1
 +++
 

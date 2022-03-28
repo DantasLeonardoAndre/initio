@@ -1,7 +1,7 @@
 +++
-title = "Clients"
+title = "Clientes"
 type = "client"
-weight = 4
+weight = 2
 image = "images/sample_clients.png"
 +++
 

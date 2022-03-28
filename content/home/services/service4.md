@@ -1,9 +1,14 @@
 +++
-title = "SEO & SEM services"
+title = "Treinamentos Personalizados"
+weight = 4
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+Treinamentos sob encomenda nos softwares Alteryx Designer, Tableau Desktop e Power BI. Os treinamentos padrões são realizados com bases de dados do mercado financeiro e dados sócio econômicos (INEP, IBGE, BNDES, ACLED), tendo como foco a parte prática através de exercícios aplicados, colocando a parte teórica de maneira parcial, no mínimo e necessário para seguimento nos exercícios.
+
+Os treinamentos personalizados são realizados com utilização de bases determinadas pelo cliente, adaptando os exercícios para utilização nas bases específicas e gerando novos exercícios em acordo com problemas característicos dads áreas de negócio.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Treinamentos sob encomenda nos softwares Alteryx Designer, Tableau Desktop e Power BI. Os treinamentos padrões são realizados com bases de dados do mercado financeiro e dados sócio econômicos (INEP, IBGE, BNDES, ACLED), tendo como foco a parte prática através de exercícios aplicados, colocando a parte teórica de maneira parcial, no mínimo e necessário para seguimento nos exercícios.
+
+Os treinamentos personalizados são realizados com utilização de bases determinadas pelo cliente, adaptando os exercícios para utilização nas bases específicas e gerando novos exercícios em acordo com problemas característicos dads áreas de negócio.

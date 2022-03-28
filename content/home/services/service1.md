@@ -1,9 +1,14 @@
 +++
-title = "Custom website design"
+title = "Sistemas de Análise de Dados"
+weight = 1
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+ Os sistemas de análises de dados, se diferem dos estudos/análises ad-hoc por não serem produtos finais "estáticos", pelo caráter dinâmico, de intereação com o usuário do sistema, que permite ser parametrizado e modificar os seus resultados para responder perguntas próprias dos diferentes usuários deste sistema.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Os sistemas de análises de dados, se diferem dos estudos/análises ad-hoc por não serem produtos finais "estáticos", pelo caráter dinâmico, de intereação com o usuário do sistema, que permite ser parametrizado e modificar os seus resultados para responder perguntas próprias dos diferentes usuários deste sistema.
+
+Isto não significa que estudos/análises ad-hoc não façam parte da construção e dos entregáveis em projetos desta finalidade, mas aqui perceba que o próprio produto final, com as devidas parametrizações definidas por cada usuário, será capaz de prover distintas análises ad-hoc, contemplando uma gama maior de beneficiados com o produto desenvolvido.
+
+Os sistemas de análise de dados, geralmente se dão em um formato final de modelos de visualização de dados e/ou interfaces da aplicação com os possíveis parâmetros a serem definidos. Nos dois casos, há uma predominância de modelos estatísticos e de mineração de dados que embasam os resultados que irão ser mostrados pelas ferramentas.

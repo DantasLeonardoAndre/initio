@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  	<meta charset="utf-8">
+  	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
+  	<meta name="description" content="">
+  	<meta name="author"      content="map[]">
+    
+    	<title>Application development</title>
+	<link rel="shortcut icon" href="https://testandoumteste.onrender.com/images/gt_favicon.png">
+
+	
+	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
+	
+	
+	<script defer src="https://use.fontawesome.com/releases/v5.0.11/js/all.js" integrity="sha384-ImVoB8Er8knetgQakxuBS4G3RSkyD8IZVVQCAnmRJrDwqJFYUE4YOv+DbIofcO9C" crossorigin="anonymous"></script>
+	
+	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
+	
+	
+  
+  <link rel="stylesheet" href="https://testandoumteste.onrender.com/css/styles.min.64a6643395c6bf1ec6fff31d6429046b3ad467e58a279ff252dc019edd80a87051cf90b7fe2d589277def72d84602dcbc7115e2e17a94db3a8838336986a0ae3.css" integrity="sha512-ZKZkM5XGvx7G//MdZCkEazrUZ&#43;WKJ5/yUtwBnt2AqHBRz5C3/i1Yknfe9y2EYC3LxxFeLhepTbOog4M2mGoK4w==">
+
+   
+  
+
+
+    <style>
+      .img-container {
+        text-align: center;
+      }
+    </style>
+
+    
+
+  </head>
+  
+  <body class="home">
+
+    
+      <header id="header">
+  <div id="head" class="parallax" data-parallax-speed="2" style="background-image:url('https://testandoumteste.onrender.com/images/bg_leoart.jpg');">
+    <h1 id="logo" class="text-center">
+      <img class='img-circle' src="https://testandoumteste.onrender.com/images/leo.jpg" alt="">
+      <span class="title">Anthony Russel</span>
+      <span class="tagline">A mystery person<br>
+        <a href="mailto:anthony.russel42@example.com">anthony.russel42@example.com</a>
+      </span>
+   </h1>
+</div>
+
+<nav class="navbar navbar-default navbar-sticky">
+    <div class="container-fluid">
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="true">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+
+        <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
+
+            <ul class="nav navbar-nav">
+            
+                
+                <li>
+                    <a href="/">home</a>
+                </li>
+                
+            
+                
+                <li>
+                    <a href="/post/">blog</a>
+                </li>
+                
+            
+                
+                <li>
+                    <a href="/about/">About</a>
+                </li>
+                
+            
+            </ul>
+
+        </div> 
+        
+    </div>
+</nav>
+
+</header>
+    
+ 
+    
+
+<main id="main">
+
+	<div class="container">
+
+		<div class="row topspace">
+
+			<div class="col-sm-8 col-sm-offset-2">
+
+ 				<article class="post">
+
+					<header class="entry-header">
+
+ 						<div class="entry-meta">
+
+               <span class="posted-on">
+
+                  <time class="entry-date published" datetime="January 1, 0001">January 1, 0001</time>
+
+               </span>
+ 						</div>
+
+ 						<h1 class="entry-title"><a href="https://testandoumteste.onrender.com/home/recentworks/recentworks6/" rel="bookmark">Application development</a></h1>
+
+						<div>
+
+							
+					  
+						</div>
+
+					</header>
+
+					<span class="image main"><img src="" alt="" /></span><div class="toc">
+
+    <details >
+
+        <summary accesskey="c" title="(Alt + C)">
+
+            <span class="details">Table of Contents</span>
+
+        </summary>
+
+        <div class="inner"><ul><ul>
+
+                <li>
+
+                    <a href="#basic-syntax" aria-label="Basic Syntax">Basic Syntax</a></li>
+
+                <li>
+
+                    <a href="#move-static-content-to-static" aria-label="Move static content to static">Move static content to <code>static</code></a></li>
+
+                <li>
+
+                    <a href="#basic-syntax-1" aria-label="Basic Syntax">Basic Syntax</a><ul>
+
+                        
+
+                <li>
+
+                    <a href="#conditionals" aria-label="Conditionals">Conditionals</a></li></ul>
+
+                </li></ul>
+
+                    
+
+                <li>
+
+                    <a href="#hugo-parameters" aria-label="Hugo Parameters">Hugo Parameters</a><ul>
+
+                        
+
+                <li>
+
+                    <a href="#hugo-parameters-1" aria-label="Hugo Parameters">Hugo Parameters</a><ul>
+
+                        
+
+                <li>
+
+                    <a href="#hugo-parameters-2" aria-label="Hugo Parameters">Hugo Parameters</a><ul>
+
+                        
+
+                <li>
+
+                    <a href="#hugo-parameters-3" aria-label="Hugo Parameters">Hugo Parameters</a><ul>
+
+                        
+
+                <li>
+
+                    <a href="#hugo-parameters-4" aria-label="Hugo Parameters">Hugo Parameters</a></li></ul>
+
+                </li></ul>
+
+                </li></ul>
+
+                </li>
+
+                <li>
+
+                    <a href="#using-site-config-parameters" aria-label="Using Site (config) Parameters">Using Site (config) Parameters</a>
+
+                </li>
+
+            </ul>
+
+            </li>
+
+            </ul>
+
+        </div>
+
+    </details>
+
+</div>
+
+
+					<div class="entry-content">
+
+						<p>I don&rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p><img src="/post/recentworks/Release4.jfif" alt="LeonardoDantas"></p>
+<p>Goto <a href="https://github.com/spf13/hugo/releases">hugo releases</a> and download the
+appropriate version for your os and architecture.</p>
+<p>Save it somewhere specific as we will be using it in the next step.</p>
+<p>More complete instructions are available at <a href="/overview/installing/">installing hugo</a></p>
+<p>Follow the following steps:</p>
+<ol start="7">
+<li>
+<p>leonardo</p>
+</li>
+<li>
+<p>dantas</p>
+</li>
+<li>
+<p>Clone the <a href="http://github.com/spf13/hugo">hugo repository</a></p>
+</li>
+<li>
+<p>Go into the repo</p>
+</li>
+<li>
+<p>Run hugo in server mode and build the docs</p>
+</li>
+<li>
+<p>Open your browser to http://localhost:1313</p>
+</li>
+</ol>
+<p>O bloco de texto que vêm depois deve ser precedido por uma sentença como essa.
+O bloco deve estar aninhado dentro destas sentenças.</p>
+<pre><code>Para aninhar nas sentenças prévias basta utilizar um &quot;TAB&quot;.
+
+git clone https://github.com/spf13/hugo
+cd hugo
+/path/to/where/you/installed/hugo server --source=./docs
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 27 ms
+&gt; Web Server is available at http://localhost:1313
+&gt; Press ctrl+c to stop.
+</code></pre>
+<pre tabindex="0"><code>outra forma de obter os mesmos blocos é utilizar &quot;```&quot;, no ínicio e no fim.
+</code></pre><h2 id="basic-syntax">Basic Syntax</h2>
+<p>Go lang <code>templates</code> are html files with the <code>addition of variables</code> and
+functions.</p>
+<p><strong>Go variables and functions are accessible within {{ }}</strong></p>
+<h2 id="move-static-content-to-static">Move static content to <code>static</code></h2>
+<p>Jekyll has a rule that any directory not starting with <code>_</code> will be copied as-is to the <code>_site</code> output. Hugo keeps all static content under <code>static</code>. You should therefore move it all there.
+With Jekyll, something that looked like</p>
+<pre><code>▾ &lt;root&gt;/
+    ▾ images/
+        logo.png
+</code></pre>
+<p>should become</p>
+<pre><code>▾ &lt;root&gt;/
+    ▾ static/
+        ▾ images/
+            logo.png
+</code></pre>
+<p>Additionally, you&rsquo;ll want any files that should reside at the root (such as <code>CNAME</code>) to be moved to <code>static</code>.</p>
+<p>I don&rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.</p>
+<!-- raw HTML omitted -->
+<h2 id="basic-syntax-1">Basic Syntax</h2>
+<p>Go lang templates are html files with the addition of variables and
+functions.</p>
+<p><strong>Go variables and functions are accessible within {{ }}</strong></p>
+<h3 id="conditionals">Conditionals</h3>
+<p>If, else, with, or, &amp; and provide the framework for handling conditional
+logic in Go Templates. Like range, each statement is closed with <code>end</code>.</p>
+<p>Go Templates treat the following values as false:</p>
+<ul>
+<li>false</li>
+<li>0</li>
+<li>any array, slice, map, or string of length zero</li>
+</ul>
+<p><strong>Example 1: If</strong></p>
+<pre><code>{{ if isset .Params &quot;title&quot; }}&lt;h4&gt;{{ index .Params &quot;title&quot; }}&lt;/h4&gt;{{ end }}
+</code></pre>
+<p><strong>Example 2: If -&gt; Else</strong></p>
+<pre><code>{{ if isset .Params &quot;alt&quot; }}
+    {{ index .Params &quot;alt&quot; }}
+{{else}}
+    {{ index .Params &quot;caption&quot; }}
+{{ end }}
+</code></pre>
+<h1 id="hugo-parameters">Hugo Parameters</h1>
+<h2 id="hugo-parameters-1">Hugo Parameters</h2>
+<h3 id="hugo-parameters-2">Hugo Parameters</h3>
+<h4 id="hugo-parameters-3">Hugo Parameters</h4>
+<h5 id="hugo-parameters-4">Hugo Parameters</h5>
+<h2 id="using-site-config-parameters">Using Site (config) Parameters</h2>
+<p>In your top-level configuration file (eg, <code>config.yaml</code>) you can define site
+parameters, which are values which will be available to you in chrome.</p>
+<p>For instance, you might declare:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">params</span>:
+  <span style="color:#f92672">CopyrightHTML</span>: <span style="color:#e6db74">&#34;Copyright &amp;#xA9; 2013 John Doe. All Rights Reserved.&#34;</span>
+  <span style="color:#f92672">TwitterUser</span>: <span style="color:#e6db74">&#34;spf13&#34;</span>
+  <span style="color:#f92672">SidebarRecentLimit</span>: <span style="color:#ae81ff">5</span>
+</code></pre></div><p>Within a footer layout, you might then declare a <code>&lt;footer&gt;</code> which is only
+provided if the <code>CopyrightHTML</code> parameter is provided, and if it is given,
+you would declare it to be HTML-safe, so that the HTML entity is not escaped
+again.  This would let you easily update just your top-level config file each
+January 1st, instead of hunting through your templates.</p>
+<pre tabindex="0"><code>{{if .Site.Params.CopyrightHTML}}&lt;footer&gt;
+&lt;div class=&quot;text-center&quot;&gt;{{.Site.Params.CopyrightHTML | safeHtml}}&lt;/div&gt;
+&lt;/footer&gt;{{end}}
+</code></pre>
+
+					</div>
+
+				</article>
+
+			</div>
+
+		</div> 
+
+		<div class="row">
+
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<div id="share">
+
+					
+
+				</div>
+
+			</div>
+
+		</div> 
+
+		<div class="clearfix"></div>
+
+		<div class="row">
+
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<div id="comments">
+
+					
+
+				</div>
+
+			</div>
+
+		</div> 
+
+		<div class="clearfix"></div>
+
+	</div>	
+
+</main>
+
+
+    
+    
+      <footer id="footer">
+	<div class="container">
+		<div class="row">
+			
+			<div class="col-md-3 widget">
+				<h3 class="widget-title">Contact</h3>
+				<div class="widget-body">
+					<p>&#43;234 23 9873237<br>
+					<a href="mailto:anthony.russel42@example.com">anthony.russel42@example.com</a><br>
+					<br>
+					234 Hidden Pond Road, Ashland City, TN 37015
+					</p>
+				</div>
+			</div>
+			
+
+			
+			<div class="col-md-3 widget">
+				<h3 class="widget-title">Follow me</h3>
+				<div class="widget-body">
+					<p class="follow-me-icons">
+            
+							
+								<a href="https://www.facebook.com/nickname" target="_blank"><i class="fab fa-facebook-square fa-1x"></i></a>
+							
+            
+							
+								<a href="https://twitter.com/nickname" target="_blank"><i class="fab fa-twitter-square fa-1x"></i></a>
+							
+            
+							
+								<a href="https://www.instagram.com/nickname" target="_blank"><i class="fab fa-instagram fa-1x"></i></a>
+							
+            
+							
+            
+							
+            
+							
+            
+							
+								<a href="https://github.com/nickname" target="_blank"><i class="fab fa-github fa-1x"></i></a>
+							
+            
+							
+            
+					</p>
+				</div>
+			</div>
+			
+
+			
+			<div class="col-md-3 widget">
+				<h3 class="widget-title">Text widget</h3>
+				<div class="widget-body">
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!
+					</p>
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!
+					</p>
+				</div>
+			</div>
+			
+
+			
+			<div class="col-md-3 widget">
+				<h3 class="widget-title">Form widget</h3>
+				<div class="widget-body">
+					<p>&#43;234 23 9873237<br>
+					<a href="mailto:anthony.russel42@example.com">anthony.russel42@example.com</a><br>
+					<br>
+					234 Hidden Pond Road, Ashland City, TN 37015
+					</p>
+				</div>
+			</div>
+			
+
+		</div> 
+	</div>
+</footer>
+
+<footer id="underfooter">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-6 widget">
+				<div class="widget-body">
+					<p>234 Hidden Pond Road, Ashland City, TN 37015</p>
+				</div>
+			</div>
+
+			<div class="col-md-6 widget">
+				<div class="widget-body">
+					<p class="text-right">
+						Copyright &copy; 2017, Anthony Russel<br>
+						Design: <a href="http://www.gettemplate.com" rel="designer">Initio by GetTemplate</a> - 
+						Powered by: <a href="https://gohugo.io/" rel="poweredby">Hugo</a>
+					</p>
+				</div>
+			</div>
+
+		</div> 
+	</div>
+</footer>
+
+
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+
+
+
+
+<script src="https://testandoumteste.onrender.com/js/bundle.min.f4a965ad0a8118e32f8f0f158ff3aadbacf700934c22286a1a5b245105e9006da73a873b001a160db22498909c1df14d1f835dba5ad76f80b32b0234182b2a58.js" integrity="sha512-9KllrQqBGOMvjw8Vj/Oq26z3AJNMIihqGlskUQXpAG2nOoc7ABoWDbIkmJCcHfFNH4NdulrXb4CzKwI0GCsqWA=="></script>
+
+<script id="dsq-count-scr" src="//hugo-initio-site.disqus.com/count.js" async></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'GA-000000000-0', 'auto');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>
+
+    
+  </body>
+  
+</html>

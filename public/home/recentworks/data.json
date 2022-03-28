@@ -1,9 +1,9 @@
 [
     {
         "id": 0,
-        "name": "Sample title - big data solutions",
-        "image": "images/s1.jpg",
-        "url": "#",
+        "name": "Estratégia de Expansão de Filiais - Ventura Empreendimentos Ltda.",
+        "image": "/post/recentworks/Release7.PNG",
+        "url": "/home/recentworks/recentworks1/",
         "items": [
             {
                 "name": "Web design",
@@ -21,9 +21,9 @@
     },
     {
         "id": 1,
-        "name": "Pure ipsum - development services for people",
-        "image": "images/s1.jpg",
-        "url": "#",
+        "name": "Flight Risk Score (Risco de Evasão dos Colaboradores) - Souza Cruz Ltda.",
+        "image": "/post/recentworks/Flight4.png",
+        "url": "/home/recentworks/recentworks2/",
         "items": [
             {
                 "name": "Web design",
@@ -37,57 +37,9 @@
     },
     {
         "id": 2,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
-        "url": "#",
-        "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Pure ipsum - development services for people",
-        "image": "images/s1.jpg",
-        "url": "#",
-        "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
-        "url": "#",
-        "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
-        "url": "#",
+        "name": "Engenharia de Dados na Transição à Plataforma SAP - Fleury S.A.",
+        "image": "/post/recentworks/Engenharia2.jpg",
+        "url": "/home/recentworks/recentworks3/",
         "items": [
             {
                 "name": "Web design",
@@ -99,4 +51,5 @@
             }
         ]
     }
+
 ]

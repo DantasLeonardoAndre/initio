@@ -1,6 +1,7 @@
 +++
 title = "Download HUGO template"
 file = "https://github.com/miguelsimoni/hugo-initio/archive/main.zip"
+image = "images/s1.jpg"
 weigth = 2
 +++
 

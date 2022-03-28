@@ -1,6 +1,6 @@
 +++
-title = "Services"
-type = "service"
-weight = 1
+title = "Serviços Prestados"
+type = "services"
+weight = 3
 +++
 
