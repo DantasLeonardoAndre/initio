@@ -3,8 +3,34 @@ Title = "Empatia"
 weight = 1
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+A palavra par trata de pessoas ligadas por algo em comum, coisas que apresentem naturezas semelhantes.
+
+Como gente que somos, semelhanças nós temos, o que faz com que possamos compreender nossas discordâncias através das divergências sobre os níveis de concordância que temos, tornando contatos bastante enriquecedores. 
+
+A empatia é uma habilidade potencial que está em cada ser humano, seu inatismo é questionável, mas a possibilidade de sua construção é insuspeita. A empatia é construída sobre uma série de momentos de apatia, com reflexões que permitem nos compreender cada vez mais como séries sociais que somos, fazendo das nossas necessidades sociais oportunidades, tornando encontros em momentos de bonitas trocas.
+
+A possibilidade de experienciar o mundo através dos olhos de terceiros nos permite alavancar a nossa experiência de vida trazendo a experiência de vida de outras pessoas. Quão mais construímos um ambiente propício para que diferentes histórias sintam-se a vontade em serem contadas mais enriquecemos o nosso repertório de vivências. Entender as pessoas como elas são, melhora o que elas podem vir a ser.
+
+Empatia se trata de se construir em conjunto, de se caminhar em pares. 
+
+Em pares se ia.
+
 
 <!--more-->
 
-Sentimento importante 
+A palavra par trata de pessoas ligadas por algo em comum, coisas que apresentem naturezas semelhantes.
+
+Como gente que somos, semelhanças nós temos, o que faz com que possamos compreender nossas discordâncias através das divergências sobre os níveis de concordância que temos, tornando contatos bastante enriquecedores. 
+
+A empatia é uma habilidade potencial que está em cada ser humano, seu inatismo é questionável, mas a possibilidade de sua construção é insuspeita. A empatia é construída sobre uma série de momentos de apatia, com reflexões que permitem nos compreender cada vez mais como séries sociais que somos, fazendo das nossas necessidades sociais oportunidades, tornando encontros em momentos de bonitas trocas.
+
+A possibilidade de experienciar o mundo através dos olhos de terceiros nos permite alavancar a nossa experiência de vida trazendo a experiência de vida de outras pessoas. A capacidade humana de estabelecer contatos, de engajar, permite construir canais muito eficientes de comunicação, gerando a possibilidade de existir trocas significativas de histórias, de informação.
+
+O Racional como compreensão das fronteiras da empatia.
+
+
+Em pares se ia.
+
+
+
+
