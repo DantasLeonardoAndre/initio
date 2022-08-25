@@ -5,4 +5,4 @@ image = "images/s1.jpg"
 weight = 1
 +++
 
-A simple, nice-looking **call to action box**. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.
+O dia-a-dia na **consultoria**. Quais as principais atividades atribuídas a um consultor em inteligência de negócios?
