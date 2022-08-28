@@ -12,7 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://testandoumteste.onrender.com/home/services/service1/</guid>
-      <description>&lt;p&gt;Os sistemas de análises de dados, se diferem dos estudos/análises ad-hoc por não serem produtos finais &amp;ldquo;estáticos&amp;rdquo;, pelo caráter dinâmico, de intereação com o usuário do sistema, que permite ser parametrizado e modificar os seus resultados para responder perguntas próprias dos diferentes usuários deste sistema.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Os sistemas de análises de dados, se diferem dos estudos/análises ad-hoc por não serem produtos finais &amp;ldquo;estáticos&amp;rdquo;, pelo caráter dinâmico, de interação com o usuário do sistema, que permite ser parametrizado e modificar os seus resultados para responder perguntas próprias de cada usuário distinto.&lt;/p&gt;
+&lt;p&gt;Os sistemas de análise de dados, geralmente se dão em um formato final de modelos de visualização de dados e/ou interfaces da aplicação, cada uma com seus possíveis parâmetros a serem definidos. Nos dois casos, há uma predominância de modelos estatísticos e técnicas de mineração de dados que embasam os resultados que irão ser mostrados pelas ferramentas.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -21,8 +22,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://testandoumteste.onrender.com/home/services/service2/</guid>
-      <description>&lt;p&gt;As análises Ad-Hoc são análises específicas e pontuais contratadas para um determinado fim. Seu produto final pode vir no formato de um relatório e/ou de um Dashboard específico.&lt;/p&gt;
-&lt;p&gt;Os estudos são análises em cima de uma série de análises ad-hoc. Possuem o objetivo de gerar uma apresentação final robusta e bem embasada em metodologias direcionadas por dados, trazendo insights estatísticos didaticamente redigidos e bem contextualizados a respeito dos temas demandados.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As análises &lt;em&gt;Ad-Hoc&lt;/em&gt; são análises específicas e pontuais contratadas para um determinado fim. Seu produto final pode vir no formato de um relatório e/ou de um &lt;em&gt;dashboard&lt;/em&gt; específico.&lt;/p&gt;
+&lt;p&gt;Os estudos são análises em cima de uma série de análises &lt;em&gt;Ad-Hoc&lt;/em&gt;. Possuem o objetivo de gerar uma apresentação final robusta e bem embasada em metodologias direcionadas por dados, trazendo insights estatísticos didaticamente redigidos e bem contextualizados a respeito dos temas demandados. Assim, temos as análises &lt;em&gt;Ad-Hoc&lt;/em&gt; como ponto de partida de qualquer projeto, sendo a base para compreender e melhor estruturar os estudos/sistemas demandados.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -32,7 +33,7 @@
       
       <guid>https://testandoumteste.onrender.com/home/services/service3/</guid>
       <description>&lt;p&gt;Os projetos de automatização servem para, se utilizando de recursos computacionais, otimizar e agilizar tarefas que envolvam desde manipulações gerais com diretórios e documentos até a produção de análises atualizadas.&lt;/p&gt;
-&lt;p&gt;Exemplos são, atualização com bases de dados mais recentes, mecanismos de coleta de dados em documentos ou páginas web, fluxos de tratamento incluindo fontes de dados distintas, manipulação/geração/remoção de diretórios e/ou documentos baseado em regras de negócios,etc.&lt;/p&gt;</description>
+&lt;p&gt;Exemplos são, atualização com bases de dados mais recentes, mecanismos de coleta de dados em documentos ou páginas web, fluxos de tratamento incluindo fontes de dados distintas, manipulação/geração/remoção de diretórios e/ou documentos baseado em regras de negócios,etc. Aqui deseja-se reduzir a atenção gasta com tarefas repetitivas, liberando tempo para atividades de maior valor a empresa.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -4,36 +4,25 @@
         "name": "Estratégia de Expansão de Filiais - Ventura Empreendimentos Ltda.",
         "image": "/post/recentworks/Release7.PNG",
         "url": "/home/recentworks/recentworks1/",
-        "text": "Projeto realizado para o Grupo Carmais com o intuito de utilizar de metodologias analíticas e das técnicas de ciência de dados para melhor embasar sua estratégia de expansão. O projeto se utiliza de análise geoespacial em bases públicas do IBGE para fornecer informações importantes de parte da região metropolitana de Fortaleza-CE. O produto final é um estudo estatístico utilizado para fortalecer os argumentos dos gestores da empresa junto as fabricantes parceiras na estratégia de expansão.",
+        "text": "Projeto realizado para o Grupo Carmais com o intuito de utilizar de metodologias analíticas e das técnicas de ciência de dados para melhor embasar sua estratégia de expansão. O projeto se utiliza de análise geoespacial em bases públicas do IBGE para fornecer informações importantes de parte da região metropolitana de Fortaleza-CE. As bases de dados do censo permitem estimar os potenciais clientes através da quantidade de pessoas incluídas em determinada faixa de renda capturada pelo IBGE. Assim, é possível também verificar a renda média mensal de bairros e/ou setores censitários que se encaixam nas premissas adotadas para a estratégia de expansão da empresa. O produto final é um estudo estatístico utilizado para fortalecer os argumentos dos gestores da empresa junto as fabricantes parceiras na estratégia de expansão.",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
+                "name": "Ir para a página do projeto",
+                "url": "/home/recentworks/recentworks1/"
             }
+
         ]
     },
     {
         "id": 1,
-        "name": "Flight Risk Score (Risco de Evasão dos Colaboradores) - B.A.T. Brasil",
+        "name": "Flight Risk Score (Risco de Evasão dos Colaboradores) - B.A.T. LTDA.",
         "image": "/post/recentworks/Flight4.png",
         "url": "/home/recentworks/recentworks2/",
         "text": "Projeto realizado para a antiga Souza Cruz ltda. com a finalidade de melhor adequar a estratégia de retenção de talentos na empresa, utilizando diferentes modelos com finalidades distintas, sendo por um lado útil para melhor conhecer as características que influenciam no comportamento de evasão e por outro útil para inferir com maior acurácia a probabilidade de tal desfecho prejudicial a empresa. O produto final é um sistema de visualização de dados, alimentado pelos resultados de 2 modelos matemáticos (Decision Tree & Boosted Model), trazendo informações importantes sobre as pessoas do quadro de colaboradores, sendo elas: Estimativa do grau de semelhança entre colaboradores ativos e colaboradores que voluntariamente saíram da empresa e perfis de características que contribuem para que um dado colaborador venha a se desligar da empresa.",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
+                "name": "Ir para a página do projeto",
+                "url": "/home/recentworks/recentworks2/"
             }
         ]
     },
@@ -45,12 +34,8 @@
         "text": "Projeto realizado para o grupo Fleury com a intenção de facilitar o processo de adequação das bases ao novo ERP contratado pela empresa. O projeto tem por objetivo gerar uma pipeline de dados que faça verificações da qualidade dos dados da empresa e de terceiros, enriqueça as bases atuais da empresa com os dados de terceiros e traga os grupos de registros a serem unificados no ambiente em produção com os dados atuais acrescidos destes enriquecimentos pós ajuste na qualidade dos dados. Para tal é construído 11 macros que permitem a reprodutibilidade do processo de verificação dos dados seguindo as devidas regras de negócio estabelecidas. O produto final é um fluxo de automatização que, seguindo a lógica da pipeline desenvolvida, permite adequar novos registros de clientes/especialistas que surjam na base de dados da empresa.   ",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
+                "name": "Ir para a página do projeto",
+                "url": "/home/recentworks/recentworks3/"
             }
         ]
     }
