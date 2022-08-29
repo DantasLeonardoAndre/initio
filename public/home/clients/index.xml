@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clientes on Leonardo Dantas</title>
-    <link>https://testandoumteste.onrender.com/home/clients/</link>
+    <link>https://leonardodantas.onrender.com/home/clients/</link>
     <description>Recent content in Clientes on Leonardo Dantas</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://testandoumteste.onrender.com/home/clients/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://leonardodantas.onrender.com/home/clients/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
