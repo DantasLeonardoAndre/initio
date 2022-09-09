@@ -11,7 +11,10 @@ image= "/post/recentworks/Release7.PNG"
 
 
 
-A imagem que abre este post busca ilustrar a ideia de lançamento realizado a partir de análises desenvolvidas com o auxílio de máquinas. O projeto descrito neste post é justamente uma demanda que visa compreender a viabilidade de lançamentos, não de foguetes, mas de novas filiais dentro do ramo varejista de concessionárias. As análises desenvolvidas são o que dão suporte para melhor compreender os prós e contras existentes nas possíveis decisões para abertura de uma nova loja.   
+A imagem que abre este post busca ilustrar a ideia de lançamento realizado a partir de análises desenvolvidas com o auxílio de máquinas. O projeto descrito neste post é justamente uma demanda que visa compreender a viabilidade de lançamentos, não de foguetes, mas de novas filiais dentro do ramo varejista de concessionárias. As análises desenvolvidas são o que dão suporte para melhor compreender os prós e contras existentes nas possíveis decisões para abertura de uma nova loja. 
+
+
+
 
 ## Introduzindo o Projeto
 

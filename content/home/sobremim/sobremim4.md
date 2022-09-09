@@ -5,7 +5,7 @@ weight = 4
 
 No ato de conversar construímos uma realidade. A vivência que cada um traz são potenciais enriquecedores para refletirmos distintas questões em conjunto. 
 
-O ato de escutar é o elemento formador da fala. Todo diálogo verbal nasce do silêncio, construído pelos vários elemento anteriores a fala, abrangindo nossa gama de comunicações não-verbais que produzimos a todo momento.
+O ato de escutar é o elemento formador da fala. Todo diálogo verbal nasce do silêncio, construído pelos vários elementos anteriores a fala, abrangindo nossa gama de comunicações não-verbais que produzimos a todo momento.
 
 A escuta ativa encontra frutuosidade mesmo antes do contato verbal. Não se precisa haver a fala para que se exista a escuta. O silêncio bem encaixado engaja.
 

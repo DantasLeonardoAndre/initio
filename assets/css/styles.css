@@ -866,3 +866,31 @@ footer.entry-meta .meta-in {
   }
 
 }
+
+/*********************************************************************
+
+
+                                Audio
+
+
+**********************************************************************/
+
+.audio-border {
+    
+    text-align:left;
+    padding-bottom: 0px;
+
+
+    font-size: 12px;
+    font-size: 0.75rem;
+    text-decoration: none;
+    font-family: "Open sans", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: #333;
+
+  }
+
+.border-orange {
+    border-color: orangered;
+  }
+

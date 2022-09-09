@@ -15,4 +15,4 @@ Desta forma, tanto os estudos, quanto os sistemas de análise de dados, são con
 
 
 
-Didático = que proporciona instrução e informação, assim como prazer e divertimento.
+

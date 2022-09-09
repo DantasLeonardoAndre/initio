@@ -3,11 +3,12 @@ Title = "Empatia"
 weight = 1
 +++
 
+
 A palavra par trata de pessoas ligadas por algo em comum, coisas que apresentem naturezas semelhantes.
 
 Como gente que somos, semelhanças nós temos, o que faz com que possamos compreender nossas discordâncias através das divergências sobre os níveis de concordância que temos, tornando contatos bastante enriquecedores. 
 
-Na busca por tornar valorosas estas interações, ainda mais importante que sentir o que a outra pessoa está sentindo, é entender como a outra pessoa gostaria de se construir, contribuindo para elaborar e conceber este sentimento de identidade e, para isso, ser presente, mesmo quando o tempo escassso lhe impede de estender estes encontros.
+Na busca por tornar valorosas estas interações, ainda mais importante que sentir o que a outra pessoa está sentindo, é entender como a outra pessoa gostaria de se construir, contribuindo para elaborar e conceber este sentimento de identidade e, para isso, ser presente, mesmo quando o tempo escasso lhe impede de estender estes encontros.
 
 A empatia é uma habilidade potencial que está em cada ser humano, seu inatismo é questionável, mas a possibilidade de sua construção é insuspeita. 
 

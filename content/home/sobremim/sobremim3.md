@@ -5,7 +5,7 @@ weight = 3
 
 Sendo, com bastante convicção, uma das principais funções como pai ao longo destes últimos 5 anos, acredito que é uma das *soft skills* que se encontra no cerne da minha felicidade. 
 
-Enquanto se existir possibilidade de se reinventar, se há esperanças de tornar-se um ser humano melhor. E uma das grandes tecnologias inventadas pelo homem para se buscar valor na humanidade, através de um constante processo de reinvenção, é a escrita. 
+Enquanto se existir possibilidade de se reinventar, se há esperanças de tornar-se um ser humano melhor. E uma das grandes tecnologias inventada por nós para se buscar valor na humanidade, através de um constante processo de reinvenção, é a escrita. 
 
 Reinventar é se entender como meio e nunca como fim. É poder se escutar, se ler, para melhor se conhecer, abrir-se para si, encontrando nas dores sua humanidade e nas alegrias suas motivações.
 
